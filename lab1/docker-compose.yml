@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  web:
+    imgge: nginx
+    ports:
+      - "8000:80"
