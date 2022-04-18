@@ -2,6 +2,6 @@ version: '3'
 
 services:
   web:
-    imgge: nginx
+    image: nginx
     ports:
       - "8000:80"
